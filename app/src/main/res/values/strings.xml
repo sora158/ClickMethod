@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClickMethod</string>
+    <string name="Mess1">Activity作为监听器</string>
+    <string name="Mess2">匿名内部类</string>
+    <string name="Mess3">绑定到标签方式</string>
+    <string name="Mess4">内部类</string>
+    <string name="Mess5">外部类</string>
+    <string name="Mess6">ButterKnife绑定</string>
+</resources>
